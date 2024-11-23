@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\УП\\УП_3\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "D:\\УП\\zd3_v3_Mironov_Ilya\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "D:\\УП\\УП_3\\TestProject\\TestProject.csproj",
+      "projectPath": "D:\\УП\\zd3_v3_Mironov_Ilya\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\79961\\.nuget\\packages\\",
-      "outputPath": "D:\\УП\\УП_3\\TestProject\\obj\\",
+      "outputPath": "D:\\УП\\zd3_v3_Mironov_Ilya\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\79961\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1039,8 +1039,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\УП\\УП_3\\OtdelLibrary\\OtdelLibrary.csproj": {
-              "projectPath": "D:\\УП\\УП_3\\OtdelLibrary\\OtdelLibrary.csproj"
+            "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelLibrary\\OtdelLibrary.csproj": {
+              "projectPath": "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelLibrary\\OtdelLibrary.csproj"
             }
           }
         }

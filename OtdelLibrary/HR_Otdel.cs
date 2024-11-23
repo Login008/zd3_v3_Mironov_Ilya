@@ -16,7 +16,8 @@ namespace OtdelLibrary
         public string Speciality { get; set; } //свойства
         public string GenDirector { get; set; }
         public string TechDirector { get; set; }
-        public HR_Otdel(string name, double baseOklad, double k, int members, string nameOfCompany, double p, string speciality, string genDirector, string techDirector) : base(name, baseOklad, k, members, nameOfCompany) //конструктор
+        public HR_Otdel(string name, double baseOklad, double k, int members, string nameOfCompany, double p, string speciality, string genDirector,
+            string techDirector) : base(name, baseOklad, k, members, nameOfCompany) //конструктор
         {
                 count++; //для уникальности ключей в словаре
                 index = count;
@@ -55,7 +56,8 @@ namespace OtdelLibrary
             if (baseOklad > 0 && k >= 0 && k <= 2 && members > 0 && p >= 0 && p <= 3)
             {
                 var selectedOtdels = from t in dict
-                                     where t.Value.name == name && t.Value.baseOklad == baseOklad && t.Value.k == k && t.Value.members == members && t.Value.nameOfCompany == nameOfCompany && t.Value.p == p
+                                     where t.Value.name == name && t.Value.baseOklad == baseOklad && t.Value.k == k && t.Value.members == members 
+                                     && t.Value.nameOfCompany == nameOfCompany && t.Value.p == p
                                      select t;
                 if (selectedOtdels.Count() == 0)
                     dict.Add(index, this);
@@ -68,7 +70,8 @@ namespace OtdelLibrary
         public override void RemoveOtdel() //Переписанный метод удаления
         {
             var selectedOtdels = from t in dict
-                                 where t.Value.name == name && t.Value.baseOklad == baseOklad && t.Value.k == k && t.Value.members == members && t.Value.nameOfCompany == nameOfCompany && t.Value.p == p
+                                 where t.Value.name == name && t.Value.baseOklad == baseOklad && t.Value.k == k && t.Value.members == members 
+                                 && t.Value.nameOfCompany == nameOfCompany && t.Value.p == p
                                  select t;
             if (selectedOtdels.Count() > 0)
             {

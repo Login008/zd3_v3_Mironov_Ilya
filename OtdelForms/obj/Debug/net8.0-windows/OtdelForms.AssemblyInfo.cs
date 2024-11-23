@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OtdelForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad8f744dddaef20a1fce48c55da18bd50b23402e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OtdelForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OtdelForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

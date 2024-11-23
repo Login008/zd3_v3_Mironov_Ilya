@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\УП\\УП_3\\OtdelForms\\OtdelForms.csproj",
+      "projectUniqueName": "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelForms\\OtdelForms.csproj",
       "projectName": "OtdelForms",
-      "projectPath": "D:\\УП\\УП_3\\OtdelForms\\OtdelForms.csproj",
+      "projectPath": "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelForms\\OtdelForms.csproj",
       "packagesPath": "C:\\Users\\79961\\.nuget\\packages\\",
-      "outputPath": "D:\\УП\\УП_3\\OtdelForms\\obj\\",
+      "outputPath": "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\79961\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\УП\\УП_3\\OtdelLibrary\\OtdelLibrary.csproj": {
-              "projectPath": "D:\\УП\\УП_3\\OtdelLibrary\\OtdelLibrary.csproj"
+            "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelLibrary\\OtdelLibrary.csproj": {
+              "projectPath": "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelLibrary\\OtdelLibrary.csproj"
             }
           }
         }

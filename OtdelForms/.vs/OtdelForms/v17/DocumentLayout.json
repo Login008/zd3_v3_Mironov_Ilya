@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0423\u041F\\\u0423\u041F_3\\OtdelForms\\",
+  "WorkspaceRootPath": "D:\\\u0423\u041F\\zd3_v3_Mironov_Ilya\\OtdelForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BEDB77B-058D-4146-8A93-EAAEDE77E832}|OtdelForms.csproj|d:\\\u0443\u043F\\\u0443\u043F_3\\otdelforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BEDB77B-058D-4146-8A93-EAAEDE77E832}|OtdelForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEDB77B-058D-4146-8A93-EAAEDE77E832}|OtdelForms.csproj|D:\\\u0423\u041F\\\u0423\u041F_3\\OtdelForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BEDB77B-058D-4146-8A93-EAAEDE77E832}|OtdelForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6BEDB77B-058D-4146-8A93-EAAEDE77E832}|OtdelForms.csproj|d:\\\u0443\u043F\\zd3_v3_mironov_ilya\\otdelforms\\addhr_otdelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEDB77B-058D-4146-8A93-EAAEDE77E832}|OtdelForms.csproj|solutionrelative:addhr_otdelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,26 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\\u0423\u041F\\\u0423\u041F_3\\OtdelForms\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\\u0423\u041F\\\u0423\u041F_3\\OtdelForms\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOIAAAAqAAAAAAAAAA==",
+              "Title": "AddHR_OtdelForm.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F\\zd3_v3_Mironov_Ilya\\OtdelForms\\AddHR_OtdelForm.cs",
+              "RelativeDocumentMoniker": "AddHR_OtdelForm.cs",
+              "ToolTip": "D:\\\u0423\u041F\\zd3_v3_Mironov_Ilya\\OtdelForms\\AddHR_OtdelForm.cs",
+              "RelativeToolTip": "AddHR_OtdelForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:21:49.447Z",
+              "WhenOpened": "2024-11-23T10:17:56.017Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "D:\\\u0423\u041F\\\u0423\u041F_3\\OtdelForms\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\\u0423\u041F\\\u0423\u041F_3\\OtdelForms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:21:27.299Z"
             }
           ]
         }

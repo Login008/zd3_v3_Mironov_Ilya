@@ -9,3 +9,15 @@ D:\УП\УП_3\OtdelLibrary\obj\Debug\net8.0\OtdelLibrary.dll
 D:\УП\УП_3\OtdelLibrary\obj\Debug\net8.0\refint\OtdelLibrary.dll
 D:\УП\УП_3\OtdelLibrary\obj\Debug\net8.0\OtdelLibrary.pdb
 D:\УП\УП_3\OtdelLibrary\obj\Debug\net8.0\ref\OtdelLibrary.dll
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\bin\Debug\net8.0\OtdelLibrary.deps.json
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\bin\Debug\net8.0\OtdelLibrary.dll
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\bin\Debug\net8.0\OtdelLibrary.pdb
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\obj\Debug\net8.0\OtdelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\obj\Debug\net8.0\OtdelLibrary.AssemblyInfoInputs.cache
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\obj\Debug\net8.0\OtdelLibrary.AssemblyInfo.cs
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\obj\Debug\net8.0\OtdelLibrary.csproj.CoreCompileInputs.cache
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\obj\Debug\net8.0\OtdelLibrary.sourcelink.json
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\obj\Debug\net8.0\OtdelLibrary.dll
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\obj\Debug\net8.0\refint\OtdelLibrary.dll
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\obj\Debug\net8.0\OtdelLibrary.pdb
+D:\УП\zd3_v3_Mironov_Ilya\OtdelLibrary\obj\Debug\net8.0\ref\OtdelLibrary.dll

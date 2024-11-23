@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\УП\\УП_3\\OtdelLibrary\\OtdelLibrary.csproj": {}
+    "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelLibrary\\OtdelLibrary.csproj": {}
   },
   "projects": {
-    "D:\\УП\\УП_3\\OtdelLibrary\\OtdelLibrary.csproj": {
+    "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelLibrary\\OtdelLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\УП\\УП_3\\OtdelLibrary\\OtdelLibrary.csproj",
+        "projectUniqueName": "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelLibrary\\OtdelLibrary.csproj",
         "projectName": "OtdelLibrary",
-        "projectPath": "D:\\УП\\УП_3\\OtdelLibrary\\OtdelLibrary.csproj",
+        "projectPath": "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelLibrary\\OtdelLibrary.csproj",
         "packagesPath": "C:\\Users\\79961\\.nuget\\packages\\",
-        "outputPath": "D:\\УП\\УП_3\\OtdelLibrary\\obj\\",
+        "outputPath": "D:\\УП\\zd3_v3_Mironov_Ilya\\OtdelLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79961\\AppData\\Roaming\\NuGet\\NuGet.Config",
